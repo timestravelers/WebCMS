@@ -1,0 +1,9 @@
+{
+  "version": 2,
+  "cleanUrls": true,
+  "functions": {
+    "api/cms.js": {
+      "maxDuration": 30
+    }
+  }
+}
